@@ -1,0 +1,4 @@
+C:\Users\codeb\Documents\FormatoDeDaDos\FormatoDeDaDos\obj\Debug\net8.0\FormatoDeDaDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeb\Documents\FormatoDeDaDos\FormatoDeDaDos\obj\Debug\net8.0\FormatoDeDaDos.AssemblyInfoInputs.cache
+C:\Users\codeb\Documents\FormatoDeDaDos\FormatoDeDaDos\obj\Debug\net8.0\FormatoDeDaDos.AssemblyInfo.cs
+C:\Users\codeb\Documents\FormatoDeDaDos\FormatoDeDaDos\obj\Debug\net8.0\FormatoDeDaDos.csproj.CoreCompileInputs.cache

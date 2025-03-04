@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\codeb\\Documents\\If_Else\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12B03197-D9BD-4ECE-A2CC-6064ECF5B15E}|If_Else\\If_Else.csproj|c:\\users\\codeb\\documents\\if_else\\if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B03197-D9BD-4ECE-A2CC-6064ECF5B15E}|If_Else\\If_Else.csproj|solutionrelative:if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\codeb\\Documents\\If_Else\\If_Else\\Program.cs",
+              "RelativeDocumentMoniker": "If_Else\\Program.cs",
+              "ToolTip": "C:\\Users\\codeb\\Documents\\If_Else\\If_Else\\Program.cs",
+              "RelativeToolTip": "If_Else\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:27:08.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

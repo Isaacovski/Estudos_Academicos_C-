@@ -1,0 +1,14 @@
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\bin\Debug\net8.0\AprendendoVar.exe
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\bin\Debug\net8.0\AprendendoVar.deps.json
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\bin\Debug\net8.0\AprendendoVar.runtimeconfig.json
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\bin\Debug\net8.0\AprendendoVar.dll
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\bin\Debug\net8.0\AprendendoVar.pdb
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\obj\Debug\net8.0\AprendendoVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\obj\Debug\net8.0\AprendendoVar.AssemblyInfoInputs.cache
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\obj\Debug\net8.0\AprendendoVar.AssemblyInfo.cs
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\obj\Debug\net8.0\AprendendoVar.csproj.CoreCompileInputs.cache
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\obj\Debug\net8.0\AprendendoVar.dll
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\obj\Debug\net8.0\refint\AprendendoVar.dll
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\obj\Debug\net8.0\AprendendoVar.pdb
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\obj\Debug\net8.0\AprendendoVar.genruntimeconfig.cache
+C:\Users\codeb\Documents\AprendendoVar\AprendendoVar\obj\Debug\net8.0\ref\AprendendoVar.dll

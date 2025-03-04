@@ -1,0 +1,14 @@
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\obj\Debug\net8.0\PessoaMaisVelhaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\obj\Debug\net8.0\PessoaMaisVelhaExercicio.AssemblyInfoInputs.cache
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\obj\Debug\net8.0\PessoaMaisVelhaExercicio.AssemblyInfo.cs
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\obj\Debug\net8.0\PessoaMaisVelhaExercicio.csproj.CoreCompileInputs.cache
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\bin\Debug\net8.0\PessoaMaisVelhaExercicio.exe
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\bin\Debug\net8.0\PessoaMaisVelhaExercicio.deps.json
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\bin\Debug\net8.0\PessoaMaisVelhaExercicio.runtimeconfig.json
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\bin\Debug\net8.0\PessoaMaisVelhaExercicio.dll
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\bin\Debug\net8.0\PessoaMaisVelhaExercicio.pdb
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\obj\Debug\net8.0\PessoaMaisVelhaExercicio.dll
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\obj\Debug\net8.0\refint\PessoaMaisVelhaExercicio.dll
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\obj\Debug\net8.0\PessoaMaisVelhaExercicio.pdb
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\obj\Debug\net8.0\PessoaMaisVelhaExercicio.genruntimeconfig.cache
+C:\Users\codeb\Documents\PessoaMaisVelhaExercicio\PessoaMaisVelhaExercicio\obj\Debug\net8.0\ref\PessoaMaisVelhaExercicio.dll

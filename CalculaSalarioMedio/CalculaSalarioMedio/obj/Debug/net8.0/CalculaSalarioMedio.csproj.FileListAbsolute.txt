@@ -1,0 +1,14 @@
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\bin\Debug\net8.0\CalculaSalarioMedio.exe
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\bin\Debug\net8.0\CalculaSalarioMedio.deps.json
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\bin\Debug\net8.0\CalculaSalarioMedio.runtimeconfig.json
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\bin\Debug\net8.0\CalculaSalarioMedio.dll
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\bin\Debug\net8.0\CalculaSalarioMedio.pdb
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\obj\Debug\net8.0\CalculaSalarioMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\obj\Debug\net8.0\CalculaSalarioMedio.AssemblyInfoInputs.cache
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\obj\Debug\net8.0\CalculaSalarioMedio.AssemblyInfo.cs
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\obj\Debug\net8.0\CalculaSalarioMedio.csproj.CoreCompileInputs.cache
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\obj\Debug\net8.0\CalculaSalarioMedio.dll
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\obj\Debug\net8.0\refint\CalculaSalarioMedio.dll
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\obj\Debug\net8.0\CalculaSalarioMedio.pdb
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\obj\Debug\net8.0\CalculaSalarioMedio.genruntimeconfig.cache
+C:\Users\codeb\Documents\CalculaSalarioMedio\CalculaSalarioMedio\obj\Debug\net8.0\ref\CalculaSalarioMedio.dll

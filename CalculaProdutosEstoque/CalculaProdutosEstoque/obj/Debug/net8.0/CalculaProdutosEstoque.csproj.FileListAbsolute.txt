@@ -1,0 +1,14 @@
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\bin\Debug\net8.0\CalculaProdutosEstoque.exe
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\bin\Debug\net8.0\CalculaProdutosEstoque.deps.json
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\bin\Debug\net8.0\CalculaProdutosEstoque.runtimeconfig.json
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\bin\Debug\net8.0\CalculaProdutosEstoque.dll
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\bin\Debug\net8.0\CalculaProdutosEstoque.pdb
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\obj\Debug\net8.0\CalculaProdutosEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\obj\Debug\net8.0\CalculaProdutosEstoque.AssemblyInfoInputs.cache
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\obj\Debug\net8.0\CalculaProdutosEstoque.AssemblyInfo.cs
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\obj\Debug\net8.0\CalculaProdutosEstoque.csproj.CoreCompileInputs.cache
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\obj\Debug\net8.0\CalculaProdutosEstoque.dll
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\obj\Debug\net8.0\refint\CalculaProdutosEstoque.dll
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\obj\Debug\net8.0\CalculaProdutosEstoque.pdb
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\obj\Debug\net8.0\CalculaProdutosEstoque.genruntimeconfig.cache
+C:\Users\codeb\Documents\CalculaProdutosEstoque\CalculaProdutosEstoque\obj\Debug\net8.0\ref\CalculaProdutosEstoque.dll
